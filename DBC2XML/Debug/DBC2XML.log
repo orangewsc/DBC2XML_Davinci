@@ -1,0 +1,150 @@
+﻿生成启动时间为 2021/10/8 13:07:46。
+     1>项目“E:\VS2013\DBC2XML\DBC2XML\DBC2XML.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(355,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _SCL_SECURE_NO_DEPRECATE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CtApCOM_src_generate.cpp DBC_analysis.cpp main.cpp Middleware_src_generate.cpp XML_generate.cpp
+         XML_generate.cpp
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(277): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(369): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(371): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(473): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(486): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(601): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(603): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(701): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(703): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(723): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(725): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(744): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(746): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(766): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(768): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(781): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(809): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\xml_generate.cpp(880): warning C4018: “<”: 有符号/无符号不匹配
+         Middleware_src_generate.cpp
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(336): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(345): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(429): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(431): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(491): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(499): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(616): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(662): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(664): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(710): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(724): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(765): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(801): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(812): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(854): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(870): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(941): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(1213): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(1226): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(1249): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(1256): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(1269): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(1279): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(1290): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\middleware_src_generate.cpp(1307): warning C4018: “<”: 有符号/无符号不匹配
+         main.cpp
+         DBC_analysis.cpp
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(172): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(198): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(214): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(228): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(230): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(236): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(265): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(288): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(310): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(319): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(332): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(341): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(401): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(403): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(407): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(424): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(428): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(452): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(463): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(465): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(497): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(500): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(505): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(508): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(532): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(535): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(540): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(543): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(633): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(682): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(685): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(689): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(712): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(763): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(784): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(832): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(867): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(918): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(959): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(970): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(1004): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(1017): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(1051): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(1085): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(1088): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(1090): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\dbc_analysis.cpp(1124): warning C4018: “<”: 有符号/无符号不匹配
+         CtApCOM_src_generate.cpp
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(220): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(238): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(316): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(325): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(370): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(375): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(421): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(449): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(458): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(506): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(511): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(557): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(608): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2013\dbc2xml\dbc2xml\ctapcom_src_generate.cpp(617): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS2013\DBC2XML\Debug\DBC2XML.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VS2013\DBC2XML\Debug\DBC2XML.pdb" /SUBSYSTEM:CONSOLE,"5.01" /STACK:"100000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS2013\DBC2XML\Debug\DBC2XML.lib" /MACHINE:X86 Debug\CtApCOM_src_generate.obj
+         Debug\DBC_analysis.obj
+         Debug\main.obj
+         Debug\Middleware_src_generate.obj
+         Debug\XML_generate.obj
+         DBC2XML.vcxproj -> E:\VS2013\DBC2XML\Debug\DBC2XML.exe
+     1>已完成生成项目“E:\VS2013\DBC2XML\DBC2XML\DBC2XML.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.49
